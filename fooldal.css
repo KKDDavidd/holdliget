@@ -1,0 +1,15 @@
+.szovegdoboz{
+    width: 45%;
+    padding: 25px 25px ;
+}
+.felk{
+    font-weight:bold;
+}
+
+.kep{
+    width: 45%;
+    padding: 25px 25px ;
+    border-radius: 50px;
+    float: right;
+    display: flex;
+}
