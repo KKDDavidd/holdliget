@@ -1,0 +1,5 @@
+hírek,
+látnivalók,
+galéria,
+események,
+történet
